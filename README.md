@@ -291,7 +291,7 @@ This repository serves as my personal learning journal throughout the CTS Digita
 
 ## 👨‍💻 Author
 
-**Hari Prakash A**
+**Kabilan P**
 
 Java Full Stack Developer | Final-Year Computer Science Engineering Student
 
